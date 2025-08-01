@@ -56,3 +56,6 @@ make
 - For deep learning, see [LibTorch](https://pytorch.org/cppdocs/).
 - Each Python file is translated to a C++ file with the same name and `.cpp` extension, in the same folder structure.
 - All logic is in the corresponding `.cpp` files for each original Python file.
+=======
+# Datamining-with-Fireforest-predictionwithc-
+>>>>>>> a0110fcff2fd8215e06712258ba58833b909ae90
